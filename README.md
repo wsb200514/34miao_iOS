@@ -14,3 +14,4 @@
 * 用了Fabric的崩溃日志统计。
 
 ### 3、GIF动图预览（说明：提交了几次没有通过审核）
+![image](https://github.com/wsb200514/34miao_iOS/blob/master/34miao_iOS.gif)
